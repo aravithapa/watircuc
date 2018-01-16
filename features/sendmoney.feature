@@ -2,18 +2,6 @@ Feature: Recipient add edit money
   Sending money scenerios
   Background:
     Given we are on the send money urls
-
-  =begin
-  send amount //valid
-  send country //valid
-
-  Recipient gets//valid
-  recipient country //valid
-  recipient is expected to rescive funds in 2 days //valid
-  fee (included) :0.23 //valid
-  Mid- market rate 12//valid
-  =end
-  // most of these scenario are already added in calculater.we can call the the functions so we are escaping
   Scenario: Recipient expected date,fee,mid market rate to receiver is valid
     When I set the send country to "<send country>"
     And I set the value to "<send amount>"
