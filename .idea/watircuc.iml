@@ -18,7 +18,7 @@
     <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.3, ruby-2.3.3-p222) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ffi (v1.9.18, ruby-2.3.3-p222) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="gherkin (v5.0.0, ruby-2.3.3-p222) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.12.2, ruby-2.3.3-p222) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.13.1, ruby-2.3.3-p222) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_test (v0.1.2, ruby-2.3.3-p222) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rubyzip (v1.2.1, ruby-2.3.3-p222) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v3.8.0, ruby-2.3.3-p222) [gem]" level="application" />
