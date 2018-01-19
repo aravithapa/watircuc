@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f3fd8f3b-d375-48db-b0ec-18571cf181db" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/features/sendMoney.feature" afterPath="$PROJECT_DIR$/features/sendMoney.feature" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +20,8 @@
       <file leaf-file-name="sendMoney.feature" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/features/sendMoney.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -208,7 +209,7 @@
       <workItem from="1516173150105" duration="101000" />
       <workItem from="1516181449724" duration="3584000" />
       <workItem from="1516272854549" duration="90000" />
-      <workItem from="1516273579791" duration="1296000" />
+      <workItem from="1516273579791" duration="1409000" />
     </task>
     <servers />
   </component>
@@ -245,7 +246,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21374000" />
+    <option name="totallyTimeSpent" value="21487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1319" height="778" extended-state="0" />
@@ -608,8 +609,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/features/sendMoney.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
