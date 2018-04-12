@@ -1,6 +1,13 @@
 Feature: Recipient add edit money sending money scenerios
-    Scenario:
-      Given we are on the sign in url
-      When i fill username as "ravi@remitasia.com"
-      And i fill password as "ravi1234"
-      Then Login is unsuccessful
+  Scenario Outline:
+    Given we are on the signin url
+    When i fill username as <email>
+    And i fill password as <password>
+    Then Login is unsuccess
+    Examples:
+    |email             |password|
+    |ravi@remitasia.com|ravi1235|
+    |ravi@remitasia.com|        |
+    |                  |ravi1236|
+    |                  |        |
+    |ravi@remitasia.com|ravi1234|
